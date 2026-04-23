@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dni SYSTEM "dni.dtd">
+<dni>
+    <numero_identificacion>12345678Z</numero_identificacion>
+    <titular>
+        <nombre>Juan</nombre>
+        <primer_apellido>García</primer_apellido>
+        <segundo_apellido>Pérez</segundo_apellido>
+        <sexo>Hombre</sexo>
+        <nacionalidad>Española</nacionalidad>
+        <fecha_nacimiento>1995-05-15</fecha_nacimiento>
+    </titular>
+    <validez>
+        <fecha_expedicion>2023-01-10</fecha_expedicion>
+        <fecha_caducidad>2033-01-10</fecha_caducidad>
+    </validez>
+    <equipo_expedicion>M-1</equipo_expedicion>
+</dni>
